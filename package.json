@@ -1,0 +1,16 @@
+{
+        "name":"tyranoscript",
+        "main":"app://./index.html",
+		"window":{
+		"title": "node-webkit demo",
+    		"icon": "link.png",
+    		"toolbar": false,
+    		"frame": true,
+    		"width": 720,
+    		"height": 540,
+    		"position": "mouse",
+    		"max_width" : 720,
+    		"max_heigh" : 540
+	}
+
+}
